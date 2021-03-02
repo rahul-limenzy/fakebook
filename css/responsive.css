@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1200px) and (min-width: 700px) {
+    .logo{
+        padding-top:15% !important;
+    }
+}
+
+
+@media only screen and (min-width:1200px) {
+   .mainrow{
+       padding-top: 30px;
+   }
+
+}
+
+@media only screen and (max-width: 700px) and (min-width: 400px) {
+    .footer ul li {
+        padding: 8px;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    .rights {
+        padding: 0px;
+    }
+
+}
+
+@media only screen and (max-width:700) {
+    .signupcontainer h1 {
+        font-size:3px ;
+    }
+}

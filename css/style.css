@@ -1,0 +1,38 @@
+  
+body {
+    background-color: #3b5997;
+}
+
+.tagline {
+    color: white;
+    font-size: 5vw;
+}
+
+
+.rights {
+    padding: 8px 16px;
+    margin: 0px;
+}
+
+.footer-link {
+    color: black;
+    
+}
+
+.footer {
+    font-size: 12px
+}
+
+.signupcontainer {
+    width: 70%;
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    font-size:x-small;
+}
+
+.topnav {
+width : 100%;
+}
